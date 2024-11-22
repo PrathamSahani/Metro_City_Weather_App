@@ -4,6 +4,23 @@
 Welcome to **Real-Time Data Processing System for Weather Monitoring**! This project fetches real-time weather data, processes it, and provides rollups and aggregates for efficient monitoring. Follow the steps below to set up and run the project.
 - Extract the folder into an empty directory of your choice.
 
+1. **Install Python**  
+   Make sure Python is installed on your system. Download it from the [official Python website](https://www.python.org/downloads/).
+
+   ```bash
+   # Check if Python is installed
+   python --version
+
+2. **setup Django**
+
+ ```bash
+   #  Django is installed
+   pip install django
+
+   # Verify the installation
+   django-admin --version
+```
+
 ### 2️⃣ Set Up Your Virtual Environment (Optional)
 To avoid dependency issues, it is recommended to create a virtual environment. Here's how:
 1. Open the extracted folder in **VS Code**.
